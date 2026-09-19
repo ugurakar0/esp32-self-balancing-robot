@@ -1,13 +1,11 @@
 # 🤖 ESP32 Self-Balancing Robot
 
+![Robot Demo](demo.gif)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino%20C%2B%2B-blue.svg)](https://espressif.com/)
 [![Control: Discrete PID](https://img.shields.io/badge/Control-Discrete%20PID%20%2B%20Sensor%20Fusion-green.svg)](#-control-architecture--dynamics)
 [![Connectivity: Bluetooth Serial](https://img.shields.io/badge/Connectivity-Bluetooth%20Serial-orange.svg)](#-bluetooth-remote-control)
-
-<p align="center">
-  <img src="./demo.gif" alt="ESP32 Self-Balancing Robot Demo" width="340">
-</p>
 
 A two-wheeled inverted pendulum self-balancing robot built with an ESP32 microcontroller, MPU-6050 6-DOF IMU, L298N dual H-bridge motor driver, and classic Bluetooth Serial teleoperation.
 
