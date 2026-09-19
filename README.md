@@ -1,7 +1,7 @@
 # 🤖 ESP32 Self-Balancing Robot
 
 <p align="center">
-  <img src="demo.gif" alt="Self-Balancing Robot Demo" width="500">
+  <img src="demo.gif" alt="Kendini Dengeleyen Robot Tanıtımı" width="500">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
