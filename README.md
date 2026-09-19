@@ -1,6 +1,8 @@
 # 🤖 ESP32 Self-Balancing Robot
 
-![Robot Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Self-Balancing Robot Demo" width="500">
+</p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino%20C%2B%2B-blue.svg)](https://espressif.com/)
