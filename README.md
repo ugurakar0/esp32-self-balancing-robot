@@ -130,6 +130,12 @@ PID gains and control parameters can be tuned in real time over the USB Serial M
 | **L298N Driver** | IN3 / IN4 | GPIO 25 / GPIO 33 | Right Motor Direction Pins |
 | **Power / Ground** | GND | GND | Common ground reference across all modules |
 
+### 📐 Circuit Schematic
+
+<p align="center">
+  <img src="circuit_schematic.png" alt="Hardware Circuit Schematic" width="650">
+</p>
+
 ---
 
 ## 🚀 Getting Started
