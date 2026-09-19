@@ -133,7 +133,7 @@ PID gains and control parameters can be tuned in real time over the USB Serial M
 ### 📐 Circuit Schematic
 
 <p align="center">
-  <img src="circuit_schematic.png" alt="Hardware Circuit Schematic" width="650">
+  <img src="espcircuit.svg" alt="Hardware Circuit Schematic" width="650">
 </p>
 
 ---
